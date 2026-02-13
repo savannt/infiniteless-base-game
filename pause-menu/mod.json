@@ -1,0 +1,8 @@
+{
+  "id": "builtin-pause-menu",
+  "name": "Pause Menu",
+  "version": "1.0.0",
+  "description": "The default in-game pause menu. Override this mod to replace the pause menu entirely.",
+  "clientEntry": "client.js",
+  "enabled": true
+}

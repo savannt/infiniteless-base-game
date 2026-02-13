@@ -1,0 +1,8 @@
+{
+  "id": "builtin-terrain-default",
+  "name": "Default Terrain",
+  "version": "1.0.0",
+  "description": "Default procedural noise terrain generator. Provides FBM noise with multi-scale block placement.",
+  "serverEntry": "server.js",
+  "enabled": true
+}

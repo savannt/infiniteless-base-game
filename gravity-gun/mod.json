@@ -1,0 +1,8 @@
+{
+  "id": "builtin-gravity-gun",
+  "name": "Builtin Gravity Gun",
+  "version": "1.0.0",
+  "enabled": true,
+  "clientEntry": "client.js",
+  "serverEntry": "server.js"
+}

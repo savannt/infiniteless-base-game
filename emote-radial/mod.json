@@ -1,0 +1,8 @@
+{
+  "id": "builtin-emote-radial",
+  "name": "Emote Wheel",
+  "version": "1.0.0",
+  "description": "Hold Tab to open the emote wheel. Move your mouse to select, release to play.",
+  "clientEntry": "client.js",
+  "enabled": true
+}

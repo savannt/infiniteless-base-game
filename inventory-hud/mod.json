@@ -1,0 +1,9 @@
+{
+  "id": "inventory-hud",
+  "name": "Inventory HUD",
+  "version": "1.0.0",
+  "author": "Builtin",
+  "description": "Displays the 1-9 inventory slot bar with item labels and selection indicator.",
+  "clientScript": "client.js",
+  "serverScript": "server.js"
+}

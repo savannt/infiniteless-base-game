@@ -1,0 +1,8 @@
+{
+  "id": "builtin-block-placement",
+  "name": "Block Placement Rules",
+  "version": "1.0.0",
+  "description": "Built-in placement policy. Decides selected block and placement permission through mod API exports.",
+  "clientEntry": "client.js",
+  "enabled": true
+}

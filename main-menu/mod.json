@@ -1,0 +1,8 @@
+{
+  "id": "builtin-main-menu",
+  "name": "Main Menu",
+  "version": "1.0.0",
+  "description": "The default main menu. Override this mod to completely replace the game's main menu UI.",
+  "clientEntry": "client.js",
+  "enabled": true
+}
